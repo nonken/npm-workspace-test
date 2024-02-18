@@ -3,6 +3,7 @@
   "dependencies": {
     "@aws-sdk/client-sns": "^3.516.0",
     "axios": "^1.6.7",
+    "esbuild": "^0.20.0",
     "jsonpath-plus": "^8.0.0",
     "lodash": "^4.17.21"
   }
