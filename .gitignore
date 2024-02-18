@@ -1,0 +1,36 @@
+.DS_Store
+.env
+
+# Logs
+logs/
+*.log
+
+# Directories
+build/
+coverage/
+cjs/
+dist/
+dts/
+esm/
+mjs/
+tmp/
+umd/
+node_modules/
+
+# Custom
+*.min.js
+*.map
+*.tsbuildinfo
+
+# moon
+.moon/cache
+.moon/docker
+
+# next
+.next
+
+# webstorm
+.idea
+
+# CDK
+cdk.out
